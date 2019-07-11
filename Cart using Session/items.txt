@@ -1,0 +1,3 @@
+001:Xiaomi Redmi Note 4X:Smartphone:7499:10
+002:Samsung Galaxy Grand Prime:Smartphone:9999:10
+003:Asus Vivobook Max:Laptop:22000:10
